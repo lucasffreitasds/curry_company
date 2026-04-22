@@ -172,7 +172,7 @@ def avg_std_time_tipo_de_trafego(df):
 # Leitura dos dados
 #===================================
 
-df_raw = pd.read_csv('C:/Users/T.i/Documents/Repos/python_para_ds/dataset/train.csv')
+df_raw = pd.read_csv('dataset/train.csv')
 df = df_raw.copy()
 
 #===================================
